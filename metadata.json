@@ -1,0 +1,6 @@
+{
+  "name": "PCEA Church App",
+  "description": "Presbyterian Church of East Africa mobile application featuring Golden Bells & Kikuyu Nyimbo cia Kuinira Ngai hymns, Bible reader, member activities, Bible study notes, and project progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
